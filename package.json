@@ -1,0 +1,20 @@
+{
+  "name": "1-natours",
+  "version": "1.0.0",
+  "description": "A website to practice advanced css.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant2106/Natours-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishant2106/Natours-Website/issues"
+  },
+  "homepage": "https://github.com/nishant2106/Natours-Website#readme"
+}
