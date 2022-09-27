@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nishant2106/Natours-Website/issues"
   },
-  "homepage": "https://github.com/nishant2106/Natours-Website#readme"
+  "homepage": "https://github.com/nishant2106/Natours-Website#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
 }
