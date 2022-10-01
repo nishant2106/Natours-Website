@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  /* border-box: If you set an element's width to 100 pixels, that 100 pixels will include any border or padding you added, and the content box will shrink to absorb that extra width.
+    content-box: the width of any border or padding will be added to the final rendered width, making the element wider than 100px.
+    */
+}
+
+html {
+  //this defines what one rem is
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
